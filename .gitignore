@@ -1,0 +1,9 @@
+# 민감한 설정 파일
+.mcp.json
+.claude/settings.local.json
+
+# 로그 파일
+logs/
+
+# Node modules
+node_modules/
